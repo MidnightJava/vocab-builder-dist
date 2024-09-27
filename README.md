@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:83f2dca8d372358239c388cb8f2adf6a58b441f945b0c084b02e1b801645dda8
-size 152
+DOwnload the [CentOS AppImage file](https://github.com/MidnightJava/vocab-builder-dist/raw/refs/heads/main/vocab-builder_0.1.0_centos_9_amd64.AppImage)
