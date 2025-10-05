@@ -6,4 +6,4 @@ Windows:| [Installer Program](https://github.com/MidnightJava/vocab-builder-dist
 MacOS: |[Disk Image](https://github.com/MidnightJava/vocab-builder-dist/raw/refs/heads/main/vocab_builder_1.0.1_x64.dmg) |[(SHA-256)](https://github.com/MidnightJava/vocab-builder-dist/raw/refs/heads/main/vocab_builder_1.0.1_x64.dmg.sha256)
 CentOS:| [AppImage Program](https://github.com/MidnightJava/vocab-builder-dist/raw/refs/heads/main/vocab-builder_1.0.1_centos_amd64.AppImage) |[(SHA-256)](https://github.com/MidnightJava/vocab-builder-dist/raw/refs/heads/main/vocab-builder_1.0.1_centos_amd64.AppImage.sha256)
 Ubuntu:| [AppImage Program](https://github.com/MidnightJava/vocab-builder-dist/raw/refs/heads/main/vocab-builder_1.0.1_ubuntu_amd64.AppImage) |[(SHA-256)](https://github.com/MidnightJava/vocab-builder-dist/raw/refs/heads/main/vocab-builder_1.0.1_ubuntu_amd64.AppImage.sha256)
-It-En Data: | https://github.com/MidnightJava/vocab-builder-dist/raw/refs/heads/main/data
+It-En Data: | [data](/data)
