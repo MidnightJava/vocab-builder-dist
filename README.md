@@ -1,1 +1,4 @@
-DOwnload the [CentOS AppImage file](https://github.com/MidnightJava/vocab-builder-dist/raw/refs/heads/main/vocab-builder_0.1.0_centos_9_amd64.AppImage)
+### Download
+ - Download the App for the desired platform from the Downloads folder.
+### Data
+ - If you want to start with some vocabularly words already loaded, download the contents of thhe Data folder, and place the files in ~/vocab_builder/data
